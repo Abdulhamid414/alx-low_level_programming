@@ -1,1 +1,1 @@
-ths repo contains project tsk about funtions and loops in C
+This repo comtains project tasks about functions and loops in C lang.
